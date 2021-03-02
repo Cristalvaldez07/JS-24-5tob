@@ -1,11 +1,24 @@
 {
-  "name": "javascript-22-5b",
+  "name": "javascript-24-5b",
   "version": "1.0.0",
-  "description": "",
+  "description": "* .mark.down",
   "main": "index.js",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^16.2.0"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cristalvaldez07/Jscurso-24-5tob.git"
+  },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cristalvaldez07/Jscurso-24-5tob/issues"
+  },
+  "homepage": "https://github.com/Cristalvaldez07/Jscurso-24-5tob#readme"
 }
