@@ -27,7 +27,7 @@ const OrdenaBurbuja = (Lista) => {
 return Lista;
 }
 
-let listaDesordenada = [6,5,3,1,8,7,2,4];
+let listaDesordenada = [6,5,3,1,8,7,2,4,9];
 console.warn(listaDesordenada);
 
 const listaOrdenada = OrdenaBurbuja (listaDesordenada) ;
