@@ -26,3 +26,23 @@ const loadTask = () => {
 }
 
 
+
+const saveTask = (listTask) => {
+
+    let data = JSON.stringify(listTask);
+
+
+    fs.writeFile(filePath, data, (error) => { 
+        if (error) {
+            throw new Error("Error Create by me: --", error);
+        }
+    
+    })
+
+}
+
+module.exports = { 
+    loadTask, 
+    saveTask 
+}
+
