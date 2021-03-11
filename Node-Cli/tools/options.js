@@ -33,6 +33,7 @@ const optionsUpdate = {
     title,
     completed
 }
+
 const optionsErade = {
     title,
     erased
