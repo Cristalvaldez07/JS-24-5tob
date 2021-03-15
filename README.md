@@ -1,4 +1,4 @@
-Lab ###3: Enlazando mi proyecto con GitHub:
+Lab ## 3: Enlazando mi proyecto con GitHub:
 *.md MarkDown
 
 Maria Cristal Valdez Leonardo #24 
@@ -14,7 +14,7 @@ TODO-LIST:
 * [x] Comprobar que mi remoto tenga los ultimos cambios agregados.
 
 
-Lab ###8.1 Instaciones de paquetes.
+Lab ## 8.1 Instaciones de paquetes.
 
 * [x] Instalar paquetes de codigo con NPM.
 * [x] Instalar yargs con el comando npm install yargs
@@ -27,7 +27,7 @@ Lab ###8.1 Instaciones de paquetes.
 * [x] Usar comando git commit -am "Instalar paquetes Yargs y Colors"
  Usar comando git push para subir mis cambios al remoto.
 
-Lab ###8.2 Creacion Organizacion de proyecto
+Lab ## 8.2 Creacion Organizacion de proyecto
 
 * [x] Crear el archivo node-CLI/app.js
 * [x] Hacemos git add .
@@ -45,7 +45,7 @@ Lab ###8.2 Creacion Organizacion de proyecto
 * [x] Hacemos git commit -am "Crea tools settings"
 * [x] Hacemos git push
 
-Lab ###8.3 Trabajando con ficheros en Node
+Lab ## 8.3 Trabajando con ficheros en Node
  * [x] Empezamos a trabajar con files.js
  * [x] Importamos paquetes path y Colors
  * [x] Usamos paquetes importados en nuestro codigo con la funcion loadTask()
@@ -63,7 +63,7 @@ Lab ###8.3 Trabajando con ficheros en Node
   
 Nota: Los programadores tratan de hacer commits con cualquier trozo de codigo significante, esto ayuda luego para el debugging
 
-Lab ###8.4 Trabajando con opciones de Yargs.
+Lab ## 8.4 Trabajando con opciones de Yargs.
  * [x] Empezamos a trabajar con options.js
  * [x] Creamos los objetos para nuestros comandos:
  * Description
