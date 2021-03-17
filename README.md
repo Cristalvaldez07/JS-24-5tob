@@ -78,3 +78,14 @@ Nota: Los programadores tratan de hacer commits con cualquier trozo de codigo si
  * [x] Hacemos git commit -am "Configura argvs con opciones para los comandos"
  * [x] Hacemos git push
 
+## Lab 8.5 Trabajamos en funciones para los tasks o tareas.
+
+* [x] Empezamos a trabajar con Tasks.js 
+* [x] Creamos funciones para trabajar los tasks:
+ * CreateTask
+ * UpdateTask 
+ * EraseTask
+* [x] Exportamos nuestras funciones
+* [x] Hacemos git add .
+* [x] Hacemos git commit -am "Configura argvs con opciones para los comandos"
+* [x] Hacemos git push
