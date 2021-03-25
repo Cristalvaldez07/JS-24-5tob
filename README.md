@@ -88,4 +88,15 @@ Nota: Los programadores tratan de hacer commits con cualquier trozo de codigo si
 * [x] Exportamos nuestras funciones
 * [x] Hacemos git add .
 * [x] Hacemos git commit -am "Configura argvs con opciones para los comandos"
-* [x] Hacemos git push
+* [x] Hacemos git push 
+
+## Lab 8.6 Trabajamos con la configuracion de Yargs.
+
+* [x] Empezamos a trabajar con el fichero  ```argvs.js``` 
+* [x] Agregando los comandos que usara Yargs.
+* [x] Exporto el objecto argv para nuestro proyecto.
+* [x] Empezamos a trabajar con  ```index.js``` 
+* [x] Importamos y exportamos nuestras herramientas.
+* [x] Hacemos git add .
+* [x] Hacemos git commit -am "Exportar tools components"
+* [x] Hacemos git push       
