@@ -10,5 +10,6 @@ const argv = argv_all
      .command('Delete', 'Delete task', options.optionsErase)
      .help()
      .argv;
+     
 
-     module.exports = { argv }
+     
