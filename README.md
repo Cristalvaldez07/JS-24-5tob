@@ -100,3 +100,13 @@ Nota: Los programadores tratan de hacer commits con cualquier trozo de codigo si
 * [x] Hacemos git add .
 * [x] Hacemos git commit -am "Exportar tools components"
 * [x] Hacemos git push       
+
+## Lab 8.7 Node CLI: Trabajamos con nuesta aplicacion principal.
+
+* [x] Empezamos a trabajar con el fichero **app.js**
+* [x] Importamos la herramientas  ```task argv``` y el paquete ```colors```
+* [x] Usamos estructura ```Switch```
+* [x] Filtramos los comandos ```Create update delete```
+* [x] Hacemos **git add.**
+* [x] Hacemos **git commit -am "Finaliza proyecto-pruebas de funcionamiento"**
+* [x] Hacemos **git push**     
